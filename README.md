@@ -183,6 +183,10 @@ src/
 - Ensure Node.js version is 16 or higher
 - Clear Vite cache: `rm -rf .vite` (Unix) or delete `.vite` folder (Windows)
 
+# 👨‍💻Authors
+- ***☝ ABDUL SABOOR ☝***
+  ---
+
 ## License
 
 MIT License - feel free to use this project for personal or commercial purposes.
